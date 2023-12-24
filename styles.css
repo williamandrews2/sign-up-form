@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+}
+
+.image-container img {
+  height: 100vh;
+  width: auto;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.information-container {
+}
