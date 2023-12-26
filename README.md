@@ -5,7 +5,6 @@ This was a project created in The Odin Project for the project titled "Sign-up f
 
 ## Agenda
 
-- Work on input variation with error class.
 - Work on input variation with focus pseudo-class by including a box shadow and a blue border.
 - Check passwords match in javascript by clicking the "create account" button. This should show red border if they do not match.
 
