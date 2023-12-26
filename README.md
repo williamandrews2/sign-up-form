@@ -1,12 +1,14 @@
 # Sign-up Form
 
-This page is intended to be a sample sign-up form for an online service. This was a project created in The Odin Project.
+This page is intended to be a sample sign-up form for an online trip planning service called Voyage Vista.
+This was a project created in The Odin Project for the project titled "Sign-up form".
 
 ## Agenda
 
-- Create account button should either redirect to another page or provide a pop-up message
-- "Already have an account? Log in" should redirect to another page or provide a pop-up message.
+- Work on input variation with error class.
+- Work on input variation with focus pseudo-class by including a box shadow and a blue border.
+- Check passwords match in javascript by clicking the "create account" button. This should show red border if they do not match.
 
 ## Known issues
 
-- White line space at the bottom of page, possibly due to an extension.
+- None as of right now!
