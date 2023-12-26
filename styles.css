@@ -4,13 +4,22 @@
   font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}
+
 :root {
-  --background1: rgb(240, 240, 240);
+  --background1: rgb(236, 236, 236);
   --leftspacing: 4rem;
 }
 
 .container {
   display: flex;
+  height: 100vh;
 }
 
 .image-container img {
@@ -23,11 +32,12 @@
   flex-direction: column;
   justify-content: space-around;
   width: 100%;
+  height: 100vh;
 }
 
 p {
   padding-left: var(--leftspacing);
-  padding-right: var(--leftspacing);
+  padding-right: 150px;
 }
 
 .information-container {
