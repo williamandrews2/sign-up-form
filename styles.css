@@ -91,7 +91,15 @@ p {
 input {
   width: 20vw;
   height: 30px;
-  border: none;
+  border: 2px solid white;
+}
+
+input:focus {
+  background-color: #558193;
+}
+
+input:valid {
+  border-color: green;
 }
 
 label {
