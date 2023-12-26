@@ -110,5 +110,17 @@ label {
 }
 
 .link-container button {
-  margin-left: var(--leftspacing);
+  margin: 30px 0px 30px var(--leftspacing);
+  padding: 10px 30px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 15px;
+  color: var(--textcolor);
+  background-color: #558193;
+  cursor: pointer;
+}
+
+a {
+  color: #558193;
+  text-decoration: none;
 }
